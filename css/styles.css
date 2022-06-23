@@ -11,4 +11,17 @@ a {
 
 a:hover {
   color: green;
-}/*# sourceMappingURL=styles.css.map */
+}
+
+/*# sourceMappingURL=styles.css.map */
+
+/*
+@media only screen and (max-width: 480px) {
+
+  .logo {
+    margin-right: 5.5rem !important;
+    margin-left: 5.5rem !important;
+  }
+
+}
+*/
