@@ -1,3 +1,12 @@
-.parrafo {
-    text-align: justify;
+p {
+  text-align: justify;
 }
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: green;
+}/*# sourceMappingURL=styles.css.map */
